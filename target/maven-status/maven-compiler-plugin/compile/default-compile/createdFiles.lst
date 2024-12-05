@@ -1,0 +1,12 @@
+com\devigor\zilla_order\dto\ProductResponse$ProductResponseBuilder.class
+com\devigor\zilla_order\WebConfig.class
+com\devigor\zilla_order\model\Product.class
+com\devigor\zilla_order\SecurityConfig.class
+com\devigor\zilla_order\controller\ProductController.class
+com\devigor\zilla_order\ZillaOrderApplication.class
+com\devigor\zilla_order\dto\ProductRequest.class
+com\devigor\zilla_order\model\Product$ProductBuilder.class
+com\devigor\zilla_order\dto\ProductRequest$ProductRequestBuilder.class
+com\devigor\zilla_order\repository\ProductRepository.class
+com\devigor\zilla_order\dto\ProductResponse.class
+com\devigor\zilla_order\service\ProductService.class
